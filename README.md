@@ -18,4 +18,5 @@ This project develops a diffusion-based generative model to synthesize 64×64 RG
 
 ## Course
 
-DS 542 Deep Learning with Data Science - Boston University
+DS 542 - Deep Learning with Data Science<br>
+Boston University
